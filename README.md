@@ -2,9 +2,9 @@
 ## _Chatting Bot Like Design (Whatsapp like interface)_
 
 
-- [Running Site](https://vinayak-09.github.io/)
+- [Running Site](https://sleyva29.github.io/sleyva291/)
 
-[![N|Solid](images/demo.gif)](https://vinayak-09.github.io/)
+[![N|Solid](images/demo.gif)](https://sleyva29.github.io/sleyva291/
 
 ## Technologies Used
 
@@ -24,16 +24,4 @@
 
 <br><br>
 
-## Connect with Me: 
 
-<br>
-
-[![N|Solid](images/telegram.svg)](https://t.me/vinayak_09)
-
-
-[![N|Solid](images/instagram.svg)](https://instagram.com/vinayak_patil_09)
-
-
-<br>
-
-**Free Software, Hell Yeah!**
