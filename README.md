@@ -4,7 +4,7 @@
 
 - [Running Site](https://sleyva29.github.io/sleyva291/)
 
-[![N|Solid](images/demo.gif)](https://sleyva29.github.io/sleyva291/
+[![N|Solid](images/demo.gif)](https://sleyva29.github.io/sleyva291/)
 
 ## Technologies Used
 
