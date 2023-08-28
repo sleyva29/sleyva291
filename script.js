@@ -86,7 +86,7 @@ function waitAndResponce(inputText) {
             break;
 
         case "education":
-            sendTextMessage("I am currently pusuing Master's degree of Science in Artificial Intelligence. Also I have a Biomedical Engineer degreefrom Universidad Autónoma Metropolitana<br>2015-2020<br><br>If you wish more informartion you can consult my resume<br>");
+            sendTextMessage("I am currently pursuing Master's degree of Science in Artificial Intelligence. Also I have a Biomedical Engineer degreefrom Universidad Autónoma Metropolitana<br>2015-2020<br><br>If you wish more informartion you can consult my resume<br>");
             break;
 
         case "clear":
